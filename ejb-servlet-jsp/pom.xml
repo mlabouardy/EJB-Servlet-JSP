@@ -42,7 +42,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>JavaServerFaces</finalName>
+		<finalName>Movies-Manager</finalName>
 
 		<plugins>
 			<plugin>
